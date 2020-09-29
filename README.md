@@ -1,8 +1,15 @@
 # Tiki-Bar
 NOT coding-related; just a place to show pictures of an outdoor bar I built. 
-![alt text](IMG_0646-2.jpg "Level 3")
-![alt text](IMG_0648-2.jpg "Level 3")
-![alt text](inside_new.png "Level 3")
+
+# V2.0 - with tiles around walls
+<details>
+  <summary>## V2.0 - Added tiles around walls and corrugated roof</summary>
+  ![alt text](IMG_0646-2.jpg "Level 3")
+  ![alt text](IMG_0648-2.jpg "Level 3")
+  ![alt text](inside_new.png "Level 3")  
+</details>
+
+
 
 ![alt text](DSC_0407.JPG "Level 3")
 ![alt text](DSC_0408.JPG "Level 3")
