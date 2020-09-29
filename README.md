@@ -5,28 +5,28 @@ NOT coding-related; just a place to show pictures of an outdoor bar I built.
 <details>
   <summary> Added corrugated roof and tiles around walls </summary>
   
-  ![alt text](IMG_0646-2.jpg "Level 3")
-  ![alt text](IMG_0648-2.jpg "Level 3")
-  ![alt text](inside_new.png "Level 3")  
+  ![alt text](v2-1.jpg "Level 3")
+  ![alt text](v2-2.jpg "Level 3")
+  ![alt text](v2-3.png "Level 3")  
 </details>
 
 # V1.0 
 <details>  
   <summary> Finish with bamboo sheet and thatched roof </summary>
   
-  ![alt text](DSC_0407.JPG "Level 3")
-  ![alt text](DSC_0408.JPG "Level 3")
-  ![alt text](DSC_0409.JPG "Level 3")
-  ![alt text](DSC_0410.JPG "Level 3")
-  ![alt text](DSC_0412.JPG "Level 3")
+  ![alt text](v1-1.JPG "Level 3")
+  ![alt text](v1-2.JPG "Level 3")
+  ![alt text](v1-3.JPG "Level 3")
+  ![alt text](v1-4.JPG "Level 3")
+  ![alt text](v1-5.JPG "Level 3")
 </details>
 
 <details>  
   <summary> Building progress </summary>
 
-  ![alt text](wood.jpeg "Level 3")
-  ![alt text](interior.jpeg "Level 3")
-  ![alt text](external.jpeg "Level 3")
+  ![alt text](v0-1.jpeg "Level 3")
+  ![alt text](v0-2.jpeg "Level 3")
+  ![alt text](v0-3.jpeg "Level 3")
 </details>
 
 
