@@ -21,9 +21,15 @@ NOT coding-related; just a place to show pictures of an outdoor bar I built.
   ![alt text](DSC_0412.JPG "Level 3")
 </details>
 
+<details>  
+  <summary> Building progress </summary>
+
+  ![alt text](wood.jpeg "Level 3")
+  ![alt text](interior.jpeg "Level 3")
+  ![alt text](external.jpeg "Level 3")
+</details>
 
 
 
-![alt text](wood.jpeg "Level 3")
-![alt text](interior.jpeg "Level 3")
-![alt text](external.jpeg "Level 3")
+
+
