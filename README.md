@@ -1,7 +1,7 @@
 # Tiki-Bar
 NOT coding-related; just a place to show pictures of an outdoor bar I built. 
 
-# V2.0 
+# V2
 <details>
   <summary> Added corrugated roof and tiles around walls </summary>
   
@@ -10,7 +10,7 @@ NOT coding-related; just a place to show pictures of an outdoor bar I built.
   ![alt text](v2-3.png "Level 3")  
 </details>
 
-# V1.0 
+# V1 
 <details>  
   <summary> Finish with bamboo sheet and thatched roof </summary>
   
